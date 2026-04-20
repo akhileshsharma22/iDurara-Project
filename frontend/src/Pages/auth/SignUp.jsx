@@ -62,6 +62,7 @@ function SignUp() {
             <option value="">Select Country</option>
             <option value="India">India</option>
             <option value="USA">USA</option>
+            <option value="UK">UK</option>
           </select>
 
           <Button type="submit">Register</Button>
